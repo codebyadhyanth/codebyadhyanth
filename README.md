@@ -20,12 +20,12 @@ Turning ideas into intelligent systems.
 </p>📊 GitHub Activity
 
 <p align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=codebyadhyanth&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyadhyanth&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p><p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyadhyanth&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>---
 
 <div align="center">⚡ Imagine → Build → Experiment → Repeat
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" alt="Profile views" /></div>
+<img src="https://komarev.com/ghpvc/?username=codebyadhyanth&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" alt="Profile views" /></div>
